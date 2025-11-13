@@ -1,1 +1,0 @@
-# This is an example first article
